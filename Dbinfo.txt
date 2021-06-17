@@ -1,0 +1,3 @@
+database name : crud
+tables in database: usermaster - for storing user and performing auth
+					emp - for storing emp details 

@@ -1,0 +1,13 @@
+mypack/handleLogout.class
+mypack/home.class
+mypack/handleRead.class
+mypack/handleDelete.class
+com/mycompany/crud/resources/JavaEE8Resource.class
+com/mycompany/crud/JAXRSConfiguration.class
+mypack/handleUpdate2.class
+mypack/handleUpdate.class
+mypack/handleDelete2.class
+mypack/handleUpdate3.class
+mypack/handleCreate0.class
+mypack/authenticate.class
+mypack/handleCreate.class
